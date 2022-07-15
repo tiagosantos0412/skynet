@@ -240,7 +240,7 @@ h1 {
 
 .fale-conosco {
     display: flex;
-    background-color: black;
+    background-color: #1a2029;
     color: white;
     
 }
@@ -311,3 +311,25 @@ form{
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
+footer {
+    background-color: #000000;
+    padding: 20px;
+    height: 200px;
+    display: flex;
+    
+    align-items: center;
+}
+
+footer p {
+    font-size: 20px;
+    color: white;
+    margin-right: 50px;
+}
+
+.redes-sociais img {
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+}
+
